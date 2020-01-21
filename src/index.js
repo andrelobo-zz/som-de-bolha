@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 import "./styles.css";
 
-const goeasy = "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3";
+const goeasy = "src/assets/hiphop.mp3";
 const dreams = "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3";
 
 const chillout =

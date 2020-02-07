@@ -35,9 +35,9 @@ class App extends React.Component {
     const playlist = [
       {
         id: 1,
-        title: "Go Easy",
+        title: "Tu la tienes , yo también",
         url:
-          "https://thumbs-prod.si-cdn.com/Vj7Cmc62xkQLwQZLiX1SbOV89ik=/420x240/https://public-media.si-cdn.com/filer/cd/0e/cd0efbec-bc15-4f38-894a-7e0e6f5968b8/campfire_edit.jpg"
+          "https://drive.google.com/file/d/0B0C2ucVFvc3bUlpESUFQVlppN28/view?usp=sharing"
       },
       {
         id: 2,

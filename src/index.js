@@ -3,17 +3,17 @@ import ReactDOM from "react-dom";
 
 import "./styles.css";
 
-const goeasy = "https://drive.google.com/file/d/0B0C2ucVFvc3bUlpESUFQVlppN28/view?usp=sharing";
+const goeasy = "https://espocabolha.org/lobo/gravy.mp3";
 const dreams = "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3";
 
 const chillout =
-  "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3";
+  "https://espocabolha.org/lobo/Gibidi%20sound.mp3";
 
 const twistter =
-  "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3";
+  "https://espocabolha.org/lobo/hell%20yeah.mp3";
 
 const freebird =
-  "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3";
+  "https://espocabolha.org/lobo/gravy.mp3";
 function getTime(time) {
   if (!isNaN(time)) {
     return (
@@ -35,9 +35,9 @@ class App extends React.Component {
     const playlist = [
       {
         id: 1,
-        title: "Tu la tienes , yo también",
+        title: "Tu la tienes yo también",
         url:
-          "https://drive.google.com/file/d/0B0C2ucVFvc3bUlpESUFQVlppN28/view?usp=sharing"
+          "https://images.pexels.com/photos/96380/pexels-photo-96380.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
       },
       {
         id: 2,
